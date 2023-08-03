@@ -39,11 +39,9 @@ If you have any suggestions or improvements for the watch product landing page, 
 
 License
 This project is licensed under the MIT License.
-
-Acknowledgments
-Special thanks to [Name of any individuals or resources you used for inspiration or learning].
+.
 
 Contact
-For any inquiries or feedback, please contact Saadat Ali at sadiraja500email@example.com
+For any inquiries or feedback, please contact Saadat Ali at sadiraja500@gmail.com
 
 Thank you for checking out the watch product landing page project! We hope you enjoy exploring the features of our stylish watch product.
