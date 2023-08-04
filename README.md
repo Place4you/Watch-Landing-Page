@@ -28,22 +28,21 @@ This project is a responsive watch product landing page built entirely with HTML
 
 The project is organized as follows:
 
-_lua
-Copy code
 watch-product-landing-page/
 |-- index.html
 |-- css/
 |   |-- styles.css
 |-- images/
 |   |-- watch.jpg
-|-- README.md_
+|-- README.md
+
 
 
 **index.html**: The HTML file contains the structure and content of the landing page.
 **css/styles.css**: The CSS file includes all the styles necessary to create an attractive layout and design.
 **images/watch.jpg**: The product image used on the landing page.
 
-###Contributing
+### Contributing
 If you have any suggestions or improvements for the watch product landing page, feel free to fork the repository, make your changes, and submit a pull request.
 
 ### License
