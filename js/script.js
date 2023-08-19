@@ -75,19 +75,21 @@
             opacity:0,
             color:"grey",
             scale: 1,
-            duration:0.4,
-            delay:0.4
+            duration:0.5,
+            delay:0
         })
         .from(".hero-container button",{
             scale:0.9,
             repeat: -1,
             yoyo: "true",
             opacity:1,
-            duration:1
+            duration:0.3,
+            delay:0
         })
         .from(".hero-container img",{
             y:150,
             opacity:0,
-            duration:0.6
+            duration:0.2,
+            delay:0
         })
     
