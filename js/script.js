@@ -71,18 +71,18 @@
             ease:"Power4.easeOut",
         })
     
-        .from(".navbar",{
-            opacity: 0,
-            y:-40,
-            duration:0.5,
-        })
+        // .from(".navbar",{
+        //     opacity: 0,
+        //     y:-40,
+        //     duration:0.2,
+        // })
     
         .from(".hero-head h1, p",{
             opacity:0,
             color:"grey",
             scale: 1,
             duration:0.9,
-            delay:0.5
+            delay:0.4
         })
         .from(".hero-container button",{
             scale:0.9,
