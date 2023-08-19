@@ -17,7 +17,86 @@
     overflow: visible;
     overflow-x: hidden;
 }
- 
+
+ /* Before Nav section  ---------------------------------------------*/
+ #upper-nav{
+    z-index: 1000;
+    background-color: black;
+    max-height: 100vh;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+
+}
+
+
+#top-screen{
+    position: absolute;
+    margin: 0;
+    padding: 0;
+    z-index: 1001;
+    color: #8f9aa3;
+    height: 100vh;
+    width: 100vw;
+    overflow: hidden;
+    background: linear-gradient( rgb(11, 11, 11), rgb(11, 11, 11)), url(https://grainy-gradients.vercel.app/noise.svg);    background-repeat: repeat;
+    background-size: 200px;
+    background-position: center;
+    background-blend-mode:exclusion;
+    }
+    #top-screen h1{
+        font-size: 6rem;
+        overflow: hidden;
+    }
+
+    #lowest{
+        color: #8f9aa3;
+        position: absolute;
+        right: 10%;
+        bottom: 10%;
+        font-size: 5rem;
+        font-weight: 900;
+    }
+    #second-lowest{
+        color: #8f9aa3;
+        position: absolute;
+        bottom: 30%;
+        right: 10%;
+        font-size: 5rem;
+        font-weight: 900;
+
+    }
+    #second-top{
+        color: #8f9aa3;
+        position: absolute;
+        bottom: 50%;
+        right: 10%;
+        font-size: 5rem;
+        font-weight: 900;
+
+    }
+    #top{
+        color: #8f9aa3;
+        position: absolute;
+        bottom: 70%;
+        right: 10%;
+        font-size: 5rem;
+        font-weight: 900;
+    }
+    #random-text{
+        padding: 10px;
+        color: white;
+        position: absolute;
+        top: 20%;
+        left: 10%;
+        font-size: 4rem;
+        font-weight: 700;
+        outline: 4px solid #8f9aa3;
+        outline-offset: 20px;
+
+    }
+    
 /* Navbar section  ---------------------------------------------*/
 .navbar{
     position: sticky;
