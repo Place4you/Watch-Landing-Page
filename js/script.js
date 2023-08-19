@@ -71,12 +71,6 @@
             ease:"Power4.easeOut",
         })
     
-    
-    
-    
-    
-    var  tl= gsap.timeline();
-    tl
         .from(".navbar",{
             opacity: 0,
             y:-40,
@@ -86,7 +80,7 @@
         .from(".hero-head h1, p",{
             opacity:0,
             color:"grey",
-            scale: 1.5,
+            scale: 1,
             duration:0.9,
             delay:0.5
         })
@@ -100,6 +94,6 @@
         .from(".hero-container img",{
             y:150,
             opacity:0,
-            duration:1
+            duration:0.6
         })
     
