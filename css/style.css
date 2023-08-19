@@ -51,7 +51,8 @@
     }
 
     #lowest{
-        color: #8f9aa3;
+        color: white;
+        -webkit-text-stroke: #8f9aa3 2px solid;
         position: absolute;
         right: 10%;
         bottom: 10%;
@@ -59,7 +60,8 @@
         font-weight: 900;
     }
     #second-lowest{
-        color: #8f9aa3;
+        color: white;
+        -webkit-text-stroke: #8f9aa3 2px solid;
         position: absolute;
         bottom: 30%;
         right: 10%;
@@ -68,7 +70,8 @@
 
     }
     #second-top{
-        color: #8f9aa3;
+        color: white;
+        -webkit-text-stroke: #8f9aa3 2px solid;
         position: absolute;
         bottom: 50%;
         right: 10%;
@@ -77,7 +80,8 @@
 
     }
     #top{
-        color: #8f9aa3;
+        color: white;
+        -webkit-text-stroke: #8f9aa3 2px solid;
         position: absolute;
         bottom: 70%;
         right: 10%;
@@ -96,7 +100,7 @@
         outline-offset: 20px;
 
     }
-    
+
 /* Navbar section  ---------------------------------------------*/
 .navbar{
     position: sticky;
