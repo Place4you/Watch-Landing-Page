@@ -28,13 +28,13 @@ This project is a responsive watch product landing page built entirely with HTML
 
 The project is organized as follows:
 
-watch-product-landing-page/
-|-- index.html
-|-- css/
-|   |-- styles.css
-|-- images/
-|   |-- watch.jpg
-|-- README.md
+watch-product-landing-page/  
+|-- index.html  
+|-- css/  
+|   |-- styles.css  
+|-- images/  
+|   |-- watch.jpg  
+|-- README.md  
 
 
 
