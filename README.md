@@ -1,5 +1,13 @@
 # Watch Product Landing Page
 ![thumnail for watch product landing page](img/thumnail.JPG)
+
+## Live Demo
+
+Access the live version of the project: [Netlify Link](https://saadatwatch.netlify.app/)
+
+This project is deployed and hosted on Netlify. Click the link above to explore the live version.
+
+
 ## Overview
 This project is a responsive watch product landing page built entirely with HTML and CSS. The page showcases a modern and stylish watch product and provides information about its features and benefits. The landing page is designed to be visually appealing and user-friendly, catering to both desktop and mobile users.
 
